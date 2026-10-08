@@ -2,6 +2,10 @@
 
 A single-page web application for managing a personal bank account — register, log in, deposit, withdraw, transfer funds, and view transaction history — all built with **R** and the **Shiny** web framework.
 
+🔗 **Live Demo:** [Personal Banking System](https://prathiksha-v123.shinyapps.io/personal-banking-system/)
+
+**Demo login:** `demo` / `demo123` · **PIN:** `1234`
+
 ## ✨ Features
 
 - **Attractive landing page** with a hero banner, feature highlights, and a login/register card
